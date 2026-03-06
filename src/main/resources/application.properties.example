@@ -1,0 +1,14 @@
+spring.application.name=forohub
+server.port=8080
+#spring.datasource.driver-class-name=org.postgresql.Driver
+spring.datasource.url=jdbc:postgresql://localhost:5432/"Tu Base De Datos"
+spring.datasource.username="Tu Usuario"
+spring.datasource.password="Tu Contraseña"
+spring.flyway.enabled=true
+spring.flyway.locations=classpath:db/migration
+spring.flyway.baseline-on-migrate=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.hibernate.show-sql=true
+spring.jpa.hibernate.format_sql=true
+spring.jpa.open-in-view=false
+server.error.include-stacktrace=never
