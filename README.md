@@ -581,21 +581,9 @@ http://localhost:8080/v3/api-docs
 
 ---
 
-## 🤝 Contribuir
-
-Las contribuciones son bienvenidas. Para contribuir:
-
-1. Fork el repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
----
-
 ## 📞 Contacto
 
-Si tienes preguntas o sugerencias, no dudes en abrir un issue o contactarme.
+Si tienes preguntas o sugerencias, no dudes en abrir un issue o contactarme - 
 [GitHub](https://github.com/Rafael-GG) - [LinkedIn](https://www.linkedin.com/in/rafael-gerson-gimenez)
 
 ---
@@ -603,7 +591,5 @@ Si tienes preguntas o sugerencias, no dudes en abrir un issue o contactarme.
 <div align="center">
 
 **Hecho con ❤️ por Rafael-GG**
-
-⭐ Si este proyecto te fue útil, por favor déjale una estrella en GitHub
 
 </div>
